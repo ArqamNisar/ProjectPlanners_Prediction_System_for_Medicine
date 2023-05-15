@@ -1,4 +1,4 @@
-# ProjectPlanners_Prediction_System_for_Medicine
+# ProjectPlanners_Prediction_System_of_Medicine_for_Health_Issues
 This is a Prediction System of Medicine for Various Health Issues. I have used multiple Data Preprocessing and Data Handling techniques.
 After that, general Data Analysis has been performed on the datasets.
 In the last and most important part, I have trained a Multinomial Naive-Bayes Classifier to predict the correct medicine for a particular health issue.
